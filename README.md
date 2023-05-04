@@ -1,8 +1,11 @@
-## Screenshots
+## T-Mobile
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+Mikrosajta s akcí mobilního operátora T-mobile.
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+Akce: V období letních prázdnin jsou data v evropských přímořských lokalitách účtována se slevou 75%.
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+![App Screenshot](Snímek obrazovky 2023-05-04 115850.png)
 
+![App Screenshot](Snímek obrazovky 2023-05-04 120116.png)
+
+![App Screenshot](Snímek obrazovky 2023-05-04 120335.png)
